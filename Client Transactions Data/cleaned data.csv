@@ -1,41 +1,29 @@
 ﻿Date,Client,Contact,Department,Region,Payment,Revenue,Profit,Profit Margin
-30-05-2023,"amazon.com, inc. ",Bill Smith,Cloud Tech,Texas,Transfer,"$4,500 ",$598 ,13.3%
-30-05-2023,"tesla, inc. ",Ken Singh,Strategy,New York,PayPal,"$3,800 ","$1,045 ",27.5%
-30-05-2023,"netflix, inc. ",Harley Fritz,Strategy,New York,NA,"$3,713 ","$1,009 ",27.2%
+30-05-2023,"amazon.com, inc. ",Bill Smith,Cloud Tech,Texas,Transfer,"$4,500 ",$598 ,13.30%
+30-05-2023,"tesla, inc. ",Ken Singh,Strategy,New York,PayPal,"$3,800 ","$1,045 ",27.50%
+30-05-2023,"netflix, inc. ",Harley Fritz,Strategy,New York,NA,"$3,713 ","$1,009 ",27.20%
 30-05-2023,the procter & gamble company ,Nyla Novak,Operations,Florida,NA,NA,$779 ,NA
-30-05-2023,"the goldman sachs group, inc. ",David Rasmussen,Operations,Florida,Check,"$5,000 ",$684 ,13.7%
-31-05-2023,jpmorgan chase & co. ,Ivan Hiney,Cloud Tech,Texas,Transfer,"$6,100 ",$544 ,8.9%
-31-05-2023,morgan stanley ,Jonha Ma,Cloud Tech,Texas,Transfer,"$4,625 ",$670 ,14.5%
-31-05-2023,citigroup inc. ,Jordan Boone,Cloud Tech,Texas,Transfer,"$3,800 ","$2,045 ",53.8%
-31-05-2023,bank of america corporation ,Kylee Townsend,Cloud Tech,Texas,Card,"$3,600 ","$1,564 ",43.4%
-31-05-2023,walmart inc. ,Nora Rollins,Cloud Tech,Texas,Check,"$5,100 ","$1,220 ",23.9%
-31-05-2023,target corporation ,Brendan Wallace,Cloud Tech,Texas,Check,"$4,750 ","$1,435 ",30.2%
-31-05-2023,costco wholesale corporation ,Conor Wise,Operations,Florida,Transfer,"$6,000 ",$998 ,16.6%
-31-05-2023,mcdonald's corporation ,Steven Michael,Big Data,California,Check,"$4,500 ",$780 ,17.3%
+30-05-2023,"the goldman sachs group, inc. ",David Rasmussen,Operations,Florida,Check,"$5,000 ",$684 ,13.70%
+31-05-2023,jpmorgan chase & co. ,Ivan Hiney,Cloud Tech,Texas,Transfer,"$6,100 ",$544 ,8.90%
+31-05-2023,morgan stanley ,Jonha Ma,Cloud Tech,Texas,Transfer,"$4,625 ",$670 ,14.50%
+31-05-2023,citigroup inc. ,Jordan Boone,Cloud Tech,Texas,Transfer,"$3,800 ","$2,045 ",53.80%
+31-05-2023,bank of america corporation ,Kylee Townsend,Cloud Tech,Texas,Card,"$3,600 ","$1,564 ",43.40%
+31-05-2023,walmart inc. ,Nora Rollins,Cloud Tech,Texas,Check,"$5,100 ","$1,220 ",23.90%
+31-05-2023,target corporation ,Brendan Wallace,Cloud Tech,Texas,Check,"$4,750 ","$1,435 ",30.20%
+31-05-2023,costco wholesale corporation ,Conor Wise,Operations,Florida,Transfer,"$6,000 ",$998 ,16.60%
+31-05-2023,mcdonald's corporation ,Steven Michael,Big Data,California,Check,"$4,500 ",$780 ,17.30%
 01-06-2023,exxon mobil corporation ,Lucia Mckay,Big Data,California,Card,NA,"$1,044 ",NA
-01-06-2023,verizon communications inc. ,Jose Roach,Big Data,California,Transfer,"$3,713 ","$1,222 ",32.9%
-01-06-2023,"the home depot, inc. ",Franklin Wrigt,Big Data,California,Transfer,"$4,950 ","$1,065 ",21.5%
-01-06-2023,"cisco systems, inc. ",Alia Thornton,Operations,Florida,Transfer,"$4,750 ",$810 ,17.1%
-01-06-2023,chevron corporation ,Denzel Flores,Operations,Florida,Transfer,"$7,320 ",$933 ,12.7%
-01-06-2023,at&t inc. ,Bruno Cordova,Big Data,California,Transfer,"$5,088 ",$655 ,12.9%
-01-06-2023,intel corporation ,Jaylynn Napp,Big Data,California,Transfer,"$4,500 ",$722 ,16.0%
-01-06-2023,general motors company ,Bruce Rich,Big Data,California,Card,"$4,250 ",$901 ,21.2%
-02-06-2023,microsoft corporation ,Arturo Moore,Big Data,California,PayPal,"$5,250 ","$1,349 ",25.7%
-02-06-2023,comcast corporation ,Bryce Carpenter,Strategy,New York,PayPal,"$6,500 ","$1,288 ",19.8%
-02-06-2023,dell technologies inc. ,Jaidyn Andersen,Strategy,New York,PayPal,"$7,500 ","$1,664 ",22.2%
-02-06-2023,johnson & johnson ,Mark Walm,Strategy,New York,Transfer,"$5,500 ","$1,320 ",24.0%
-02-06-2023,fedex corporation ,Harry Lee,Strategy,New York,Transfer,"$4,625 ","$1,001 ",21.6%
-02-06-2023,general electric company ,Josh Johnson,Strategy,New York,Transfer,"$4,500 ",$960 ,21.3%
-02-06-2023,lockheed martin corporation ,Mik Naam,Strategy,New York,Card,"$5,400 ",$540 ,10.0%
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
+01-06-2023,verizon communications inc. ,Jose Roach,Big Data,California,Transfer,"$3,713 ","$1,222 ",32.90%
+01-06-2023,"the home depot, inc. ",Franklin Wrigt,Big Data,California,Transfer,"$4,950 ","$1,065 ",21.50%
+01-06-2023,"cisco systems, inc. ",Alia Thornton,Operations,Florida,Transfer,"$4,750 ",$810 ,17.10%
+01-06-2023,chevron corporation ,Denzel Flores,Operations,Florida,Transfer,"$7,320 ",$933 ,12.70%
+01-06-2023,at&t inc. ,Bruno Cordova,Big Data,California,Transfer,"$5,088 ",$655 ,12.90%
+01-06-2023,intel corporation ,Jaylynn Napp,Big Data,California,Transfer,"$4,500 ",$722 ,16.00%
+01-06-2023,general motors company ,Bruce Rich,Big Data,California,Card,"$4,250 ",$901 ,21.20%
+02-06-2023,microsoft corporation ,Arturo Moore,Big Data,California,PayPal,"$5,250 ","$1,349 ",25.70%
+02-06-2023,comcast corporation ,Bryce Carpenter,Strategy,New York,PayPal,"$6,500 ","$1,288 ",19.80%
+02-06-2023,dell technologies inc. ,Jaidyn Andersen,Strategy,New York,PayPal,"$7,500 ","$1,664 ",22.20%
+02-06-2023,johnson & johnson ,Mark Walm,Strategy,New York,Transfer,"$5,500 ","$1,320 ",24.00%
+02-06-2023,fedex corporation ,Harry Lee,Strategy,New York,Transfer,"$4,625 ","$1,001 ",21.60%
+02-06-2023,general electric company ,Josh Johnson,Strategy,New York,Transfer,"$4,500 ",$960 ,21.30%
+02-06-2023,lockheed martin corporation ,Mik Naam,Strategy,New York,Card,"$5,400 ",$540 ,10.00%
