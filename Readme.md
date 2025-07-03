@@ -1,7 +1,3 @@
-Here is a complete, cleanly structured `README.md` file for your GitHub repository that showcases multiple **Excel-based data cleaning projects**:
-
----
-
 ```markdown
 # 🧹 Data Cleaning Projects in Excel
 
