@@ -1,47 +1,47 @@
-﻿S.NO.,PRESIDENT,PARTY,VICE,SALARY,DATE UPDATED,DATE CREATED,,
-1,George Washington,Nonpartisan,John Adams,5000,14-07-21,04-03-12,,
-2,John Adams,Federalist,Thomas Jefferson,10000,14-07-21,04-03-12,,
-3,Thomas Jefferson,Democratic-  Republican,Aaron Burr,15000,14-07-21,04-03-12,,
-4,James Madison,Democratic-  Republican,George Clinton,20000,14-07-21,04-03-12,,
-5,James Monroe,Democratic-  Republican,Daniel D. Tompkins,25000,14-07-21,04-03-12,,
-6,John Quincy Adams,Democratic-  Republican,John C. Calhoun,30000,14-07-21,04-03-12,,
-7,Andrew Jackson,Democratic,John C. Calhoun,35000,14-07-21,04-03-12,,
-8,Martin Van Buren,Democratic,Richard Mentor Johnson,40000,14-07-21,04-03-12,,
-9,William Henry Harrison,Whig,John Tyler,45000,14-07-21,04-03-12,,
-10,John Tyler,Whig,Office Vacant,50000,14-07-21,04-03-12,,
-11,James K. Polk,Democratic,George M. Dallas,55000,14-07-21,04-03-12,,
-12,Zachary Taylor,Whig,Millard Fillmore,60000,14-07-21,04-03-12,,
-13,Millard Fillmore,Whig,Office Vacant,65000,14-07-21,04-03-12,,
-14,Franklin Pierce,Democratic,William R. King,75000,14-07-21,04-03-12,,
-15,James Buchanan,Democratic,John C. Breckinridge,85000,14-07-21,04-03-12,,
-16,Abraham Lincoln,Republican,Hannibal Hamlin,95000,14-07-21,04-03-12,,
-17,Andrew Johnson,Democratic,Office Vacant,105000,14-07-21,04-03-12,,
-18,Ulysses S. Grant,Republican,Schuyler Colfax,115000,14-07-21,04-03-12,,
-19,Rutherford B. Hayes,Republican,William A. Wheeler,125000,14-07-21,04-03-12,,
-20,James A. Garfield,Republican,Chester A. Arthur,135000,14-07-21,04-03-12,,
-21,Chester A. Arthur,Republican,Office Vacant,145000,14-07-21,04-03-12,,
-22,Grover Cleveland,Democratic,Thomas A. Hendricks,155000,14-07-21,04-03-12,,
-23,Benjamin Harrison,Republican,Levi P. Morton,165000,14-07-21,04-03-12,,
-24,Grover Cleveland,Democratic,Adlai Stevenson,175000,14-07-21,04-03-12,,
-25,William Mckinley,Republican,Garret Hobart,185000,14-07-21,04-03-12,,
-26,Theodore Roosevelt,Republican,Office Vacant,195000,14-07-21,04-03-12,,
-27,William Howard Taft,Republican,James S. Sherman,205000,14-07-21,04-03-12,,
-28,Woodrow Wilson,Democratic,Thomas R. Marshall,225000,14-07-21,04-03-12,,
-28,Woodrow Wilson,Democratic,Thomas R. Marshall,225000,14-07-21,04-03-12,,
-29,Warren G. Harding,Republican,Calvin Coolidge,235000,14-07-21,04-03-12,,
-30,Calvin Coolidge,Republican,Office Vacant,245000,14-07-21,04-03-12,,
-31,Herbert Hoover,Republican,Charles Curtis,255000,14-07-21,04-03-12,,
-32,Franklin D. Roosevelt,Democratic,John Nance Garner,265000,14-07-21,04-03-12,,
-33,Harry S. Truman,Democratic,Office Vacant,275000,14-07-21,04-03-12,,
-34,Dwight D. Eisenhower,Republican,Richard Nixon,285000,14-07-21,04-03-12,,
-35,John F. Kennedy,Democratic,Lyndon B. Johnson,295000,14-07-21,04-03-12,,
-36,Lyndon B. Johnson,Democratic,Office Vacant,305000,14-07-21,04-03-12,,
-37,Richard Nixon,Republican,Spiro Agnew,315000,14-07-21,04-03-12,,
-38,Gerald Ford,Republican,Office Vacant,325000,14-07-21,04-03-12,,
-39,Jimmy Carter,Democratic,Walter Mondale,335000,14-07-21,04-03-12,,
-40,Ronald Reagan,Republican,George H. W. Bush,345000,14-07-21,04-03-12,,
-41,George H. W. Bush,Republican,Dan Quayle,355000,14-07-21,04-03-12,,
-42,Bill Clinton,Democratic,Al Gore,365000,14-07-21,04-03-12,,
-43,George W. Bush,Republican,Dick Cheney,375000,14-07-21,04-03-12,,
-44,Barack Obama,Democratic,Joe Biden,395000,14-07-21,01-02-20,,
-45,Donald Trump,Republican,Mike Pence,405000,14-07-21,01-02-20,,
+﻿S.NO.,PRESIDENT,PARTY,VICE,SALARY,DATE UPDATED,DATE CREATED
+1,George Washington,Nonpartisan,John Adams,5000,14-07-2021,04-03-2012
+2,John Adams,Federalist,Thomas Jefferson,10000,14-07-2021,04-03-2012
+3,Thomas Jefferson,Democratic-  Republican,Aaron Burr,15000,14-07-2021,04-03-2012
+4,James Madison,Democratic-  Republican,George Clinton,20000,14-07-2021,04-03-2012
+5,James Monroe,Democratic-  Republican,Daniel D. Tompkins,25000,14-07-2021,04-03-2012
+6,John Quincy Adams,Democratic-  Republican,John C. Calhoun,30000,14-07-2021,04-03-2012
+7,Andrew Jackson,Democratic,John C. Calhoun,35000,14-07-2021,04-03-2012
+8,Martin Van Buren,Democratic,Richard Mentor Johnson,40000,14-07-2021,04-03-2012
+9,William Henry Harrison,Whig,John Tyler,45000,14-07-2021,04-03-2012
+10,John Tyler,Whig,Office Vacant,50000,14-07-2021,04-03-2012
+11,James K. Polk,Democratic,George M. Dallas,55000,14-07-2021,04-03-2012
+12,Zachary Taylor,Whig,Millard Fillmore,60000,14-07-2021,04-03-2012
+13,Millard Fillmore,Whig,Office Vacant,65000,14-07-2021,04-03-2012
+14,Franklin Pierce,Democratic,William R. King,75000,14-07-2021,04-03-2012
+15,James Buchanan,Democratic,John C. Breckinridge,85000,14-07-2021,04-03-2012
+16,Abraham Lincoln,Republican,Hannibal Hamlin,95000,14-07-2021,04-03-2012
+17,Andrew Johnson,Democratic,Office Vacant,105000,14-07-2021,04-03-2012
+18,Ulysses S. Grant,Republican,Schuyler Colfax,115000,14-07-2021,04-03-2012
+19,Rutherford B. Hayes,Republican,William A. Wheeler,125000,14-07-2021,04-03-2012
+20,James A. Garfield,Republican,Chester A. Arthur,135000,14-07-2021,04-03-2012
+21,Chester A. Arthur,Republican,Office Vacant,145000,14-07-2021,04-03-2012
+22,Grover Cleveland,Democratic,Thomas A. Hendricks,155000,14-07-2021,04-03-2012
+23,Benjamin Harrison,Republican,Levi P. Morton,165000,14-07-2021,04-03-2012
+24,Grover Cleveland,Democratic,Adlai Stevenson,175000,14-07-2021,04-03-2012
+25,William Mckinley,Republican,Garret Hobart,185000,14-07-2021,04-03-2012
+26,Theodore Roosevelt,Republican,Office Vacant,195000,14-07-2021,04-03-2012
+27,William Howard Taft,Republican,James S. Sherman,205000,14-07-2021,04-03-2012
+28,Woodrow Wilson,Democratic,Thomas R. Marshall,225000,14-07-2021,04-03-2012
+28,Woodrow Wilson,Democratic,Thomas R. Marshall,225000,14-07-2021,04-03-2012
+29,Warren G. Harding,Republican,Calvin Coolidge,235000,14-07-2021,04-03-2012
+30,Calvin Coolidge,Republican,Office Vacant,245000,14-07-2021,04-03-2012
+31,Herbert Hoover,Republican,Charles Curtis,255000,14-07-2021,04-03-2012
+32,Franklin D. Roosevelt,Democratic,John Nance Garner,265000,14-07-2021,04-03-2012
+33,Harry S. Truman,Democratic,Office Vacant,275000,14-07-2021,04-03-2012
+34,Dwight D. Eisenhower,Republican,Richard Nixon,285000,14-07-2021,04-03-2012
+35,John F. Kennedy,Democratic,Lyndon B. Johnson,295000,14-07-2021,04-03-2012
+36,Lyndon B. Johnson,Democratic,Office Vacant,305000,14-07-2021,04-03-2012
+37,Richard Nixon,Republican,Spiro Agnew,315000,14-07-2021,04-03-2012
+38,Gerald Ford,Republican,Office Vacant,325000,14-07-2021,04-03-2012
+39,Jimmy Carter,Democratic,Walter Mondale,335000,14-07-2021,04-03-2012
+40,Ronald Reagan,Republican,George H. W. Bush,345000,14-07-2021,04-03-2012
+41,George H. W. Bush,Republican,Dan Quayle,355000,14-07-2021,04-03-2012
+42,Bill Clinton,Democratic,Al Gore,365000,14-07-2021,04-03-2012
+43,George W. Bush,Republican,Dick Cheney,375000,14-07-2021,04-03-2012
+44,Barack Obama,Democratic,Joe Biden,395000,14-07-2021,01-02-2020
+45,Donald Trump,Republican,Mike Pence,405000,14-07-2021,01-02-2020
