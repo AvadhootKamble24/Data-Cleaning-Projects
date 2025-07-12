@@ -1,7 +1,7 @@
 ```markdown
 # 🧹 Data Cleaning Projects in Excel
 
-This repository contains a collection of **data cleaning and preprocessing projects** performed using **Microsoft Excel**. Each folder showcases a specific dataset and demonstrates essential Excel techniques used to transform raw, messy data into clean, analysis-ready formats.
+This repository contains a collection of ** data cleaning and preprocessing projects** performed using ** Microsoft Excel **. Each folder showcases a specific dataset and demonstrates essential Excel techniques used to transform raw, messy data into clean, analysis-ready formats.
 
 ---
 
@@ -61,4 +61,4 @@ If you'd like to collaborate or give feedback, feel free to reach out via GitHub
 
 ---
 
-> 💡 This repository is part of my journey to master **data analysis using Excel**, and will be updated regularly with new projects and datasets.
+> 💡 This repository is part of my journey to master ** data analysis **, and will be updated regularly with new projects and datasets.
